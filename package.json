@@ -17,7 +17,7 @@
     "analytics": "0.2.2",
     "@analytics/google-analytics": "0.2.0",
     "mailchimp-api-v3": "1.13.1",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "aws-sdk": "2.533.0"
   },
   "scripts": {
